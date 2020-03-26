@@ -16,6 +16,10 @@ mongod.exe --logpath C:\Users\86178\Downloads\mongodb\mongodb-win32-x86_64-3.0.6
 
  其中mongodb-win32-x86_64-3.0.6是你解压后的文件夹名称，log文件夹需要你自己创建(日志文件存放处)；同时还要创建data文件夹，以及data下面的db文件夹(作为数据存放目录)；
 
+
+
+
+
  
 
  你也可以直接运行 mongod.exe 使用默认目录； as you like；
@@ -27,5 +31,18 @@ mongod.exe --logpath C:\Users\86178\Downloads\mongodb\mongodb-win32-x86_64-3.0.6
 ### 全局安装 supervisor，这没有啥好说的
 
 使用supervisor来启动项目
+
+
+ 不小心把node_modules传上去了。。。。
+
+ 可以
+ ```
+ npm i
+ ```
+
+ 再：
+ ```
+ npm run start
+ ```
 
 
