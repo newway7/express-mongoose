@@ -46,3 +46,6 @@ mongod.exe --logpath C:\Users\86178\Downloads\mongodb\mongodb-win32-x86_64-3.0.6
  ```
 
 
+ 做一个关于express和mongoose的了解吧。。。。。感觉这个是之前前后端没有分离时做的东西。。。
+
+
